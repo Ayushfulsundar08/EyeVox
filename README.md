@@ -1,6 +1,10 @@
 🧠 EyeVox – Gaze & Voice Controlled Interaction System
 EyeVox is a biometric authentication and interaction system that allows users to control their desktop using gaze direction and voice commands. It combines computer vision and speech recognition to enable hands-free navigation and secure login.
 
+## 🎥 Demo Video
+
+👉 [Watch EyeVox in Action (3-min Demo)](https://drive.google.com/file/d/1WAhIng_wFkA21rsPhMhSmac_QG18lU6l/view?usp=drive_link)
+
 🚀 Features
 🎯 Gaze-based cursor control using iris tracking
 
@@ -100,9 +104,10 @@ sounddevice
 scipy
 
 👨‍💻 Developer
-Ayush Sundar
+Ayush Fulsundar
 B.Tech Cyber Security @ MIT ADT University
 🔗 GitHub
 
 📄 License
-This project is for educational and research purposes. Feel free to fork or contribute. (You can add MIT License or another if desired.)
+This project is for educational and research purposes. Feel free to fork or contribute.
+
