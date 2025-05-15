@@ -1,0 +1,11 @@
+[2025-04-10 13:47:47] FAILED - Gaze mismatch (0.00)
+[2025-04-17 19:51:54] FAILED - Voice mismatch (0.00)
+[2025-04-17 19:52:27] SUCCESS - Gaze 0.92, Voice 1.00
+[2025-04-23 10:32:47] SUCCESS - Gaze 0.86, Voice 1.00
+[2025-04-23 10:38:01] FAILED - Voice mismatch (-1.00)
+[2025-04-23 10:43:05] CREDENTIALS REGISTERED
+[2025-04-23 10:43:54] FAILED - Voice mismatch (-1.00)
+[2025-04-23 11:01:28] FAILED - Voice mismatch (-1.00)
+[2025-04-25 11:47:03] FAILED - Voice mismatch (0.00)
+[2025-04-27 14:46:12] SUCCESS - Gaze 1.00, Voice 1.00
+[2025-04-27 14:59:09] FAILED - Voice mismatch (0.00)
